@@ -1,0 +1,7 @@
+import: ../public/common.book
+
+title: Dépôt Github de Lizzie Crowdagger
+output.html: index.html
+resources.base_path.links: "https://github.com/crowdagger/textes/tree/master"
+
+! ../public/README.md
