@@ -1,4 +1,4 @@
-import: ../public/common.book
+# import: ../public/common.book
 
 title: Dépôt Github de Lizzie Crowdagger
 output.html: index.html
